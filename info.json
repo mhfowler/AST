@@ -1,15 +1,17 @@
 {
-	"title": "Binder",
-	"logo" : "logo.png",
-	"about" : "Link some sites together.",
+	"title": "AST",
+	"logo" : "ast.png",
+	"about" : "",
 	"menu" : {
-		"About" : "https://docs.google.com/document/d/1L8uIUdE58AsP-jnHD_H6df3T2DNFsegImPidkTwpYLw/",
-		"Download" : "https://docs.google.com/document/d/1aKVEphpLq3UUBkhoStJVhmkiOWRQmALAj-bphbk-KTU/",
-		"Binder In-Use" : "https://docs.google.com/document/d/1q9957u3P0SfFzwTzaWlu1ZeJ4FEZ0H4MF-cJBSm4Y-s/",
-		"Google Slides" : "https://docs.google.com/presentation/d/1gdX17MpgdyhiAQKTPehMWEYf914cYF4GtuY7m1jD7Qo/embed?start=true&loop=true&delayms=5000",
-		"Tumblr" : "http://cempontraoryartdaily.tumblr.com/",
-		"PDF" : "http://www.nasa.gov/pdf/373665main_NASA-SP-2009-566.pdf",
-		"Youtube" : "https://www.youtube.com/embed/Sdi2S1PHS_s",
-		"Wikipedia" : "https://en.wikipedia.org/wiki/Web_page"
+		"Home" : "http://newhive.com/kedankedan/ast-binder-web-home",
+		"About" : "https://docs.google.com/document/d/13jrX3EXkvDlMNnT04b1CR-Y9603p_eVRxPrpfrV6NGA/edit",
+		"News" : "https://docs.google.com/document/d/1MmIDLqG-Okwr8fExvxDcPTtT9HXjwUXcS_bcIa_56zQ/edit",
+		"00101" : "https://drive.google.com/drive/folders/0B8r7vc8BYXs7VkpVYW40eENFZzA ",
+		"00102" : "https://docs.google.com/document/d/1SKblows9VtMJPigIMuT4mGwx0KD17sha_7FNrl0GmJ8/edit",
+		"00103" : "https://docs.google.com/document/d/1jhoRF_Erf4F0flAfEfrsjSx7e1CrN_W1gUpjHi3NaDY/edit",
+		"00201" : "https://docs.google.com/document/d/1OaVTqGBcvc63tSskWK12BuENNGxOqkVes-nR-79TnH0/edit",
+		"00202" : "https://drive.google.com/drive/folders/0B8r7vc8BYXs7VkpVYW40eENFZzA ",
+		"00203" : "https://www.youtube.com/embed/U738MYMkk_I",
+		"Contact": "https://docs.google.com/document/d/1PA7nJUe-e-9gGSSSavpnA-iRpu_Beapw8wX0xaxevm4/edit"
 	}
 }

@@ -45,10 +45,16 @@ body {
 	font: 15px/20px monospace;
     letter-spacing: -0.3px;
 	cursor: move;
-	    box-shadow: #fefb00 3px 3px 0, 6px 6px 0px #ff0000;
-	border-style: solid;
-	border-color: blue;
-	background-color: #eee;
+	    /*box-shadow: #fefb00 3px 3px 0, 6px 6px 0px #ff0000;*/
+	/*border-style: solid;*/
+	/*border-color: blue;*/
+	/*background-color: #eee;*/
+	background-color: transparent;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: black;
+	text-decoration: underline;
+	margin-left: 30px;
 }
 
 #logo {
@@ -88,10 +94,12 @@ body {
 	padding:0;
 	margin:0;
 	width:auto;
+	margin-bottom: 10px;
 }
 
 #navigation a, div.about{
-	color: #717171;
+	/*color: #717171;*/
+	color: black;
 	padding: 0;
 	text-decoration: none;
 	padding: 1px;
