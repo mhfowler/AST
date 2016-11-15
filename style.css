@@ -42,7 +42,7 @@ body {
 	z-index:10;
 	padding: 13px;
 	padding-right: 15px;
-	font: 25px/35px monospace;
+	font: 20px/30px monospace;  /*was 25px/35px*/
     letter-spacing: -0.3px;
 	cursor: move;
 	/*box-shadow: #fefb00 3px 3px 0, 6px 6px 0px #ff0000;*/
@@ -50,7 +50,7 @@ body {
 	/*border-color: blue;*/
 	/*background-color: #eee;*/
 	background-color: transparent;
-	font-size: 30px;
+	font-size: 25px;  /*was 30px*/
 	text-transform: uppercase;
 	color: black;
 	text-decoration: underline;
